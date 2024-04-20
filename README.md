@@ -24,7 +24,7 @@ Video link: https://drive.google.com/file/d/1NLH4QrqNdeqWXmwjp0gX5nW1klcG_bSQ/vi
 - HTML/CSS for front-end design and user interface.
 - MySQL database for storing user data, book information, and transaction records.
 
-  ## Getting Started
+## Getting Started
 
 To run this project locally or deploy it on a server, follow these steps:
 
