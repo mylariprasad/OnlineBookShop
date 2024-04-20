@@ -44,4 +44,4 @@ This project was made possible with the help of various technologies, frameworks
 - Git and GitHub
 - Apache Tomcat
 - IntelliJ IDEA (or your preferred IDE)
-We also acknowledge the contributions of the open-source community and the wealth of knowledge shared by developers worldwide.
+ We also acknowledge the contributions of the open-source community and the wealth of knowledge shared by developers worldwide.
