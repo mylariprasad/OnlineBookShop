@@ -2,6 +2,8 @@
 
 Welcome to the Ineuron-OnlineBookShop project repository! This project aims to create an online bookstore platform where users can browse, buy, and sell books conveniently. It provides a seamless experience for book enthusiasts to explore a wide range of books, manage their accounts, and engage in transactions securely.
 
+## Video Demo
+Video link: https://drive.google.com/file/d/1c0LjwKDzpBrTu0jVTsqF3J8YQe6lcxYf/view?usp=sharing
 
 ## Features
 
