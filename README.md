@@ -31,3 +31,17 @@ To run this project locally or deploy it on a server, follow these steps:
 3. Configure the database connection settings in the project's configuration files.
 4. Deploy the project on a Java servlet container like Apache Tomcat.
 5. Access the application through a web browser and start exploring the Online Bookstore Platform.
+
+  ## Acknowledgments
+We would like to express our gratitude to Ineuron for providing the opportunity to work on this project during the course. Special thanks to the instructors and mentors for their guidance and support throughout the development process.
+
+This project was made possible with the help of various technologies, frameworks, and resources, including:
+
+- Java EE (Enterprise Edition)
+- Servlets and JSP (JavaServer Pages)
+- MySQL Database
+- HTML/CSS
+- Git and GitHub
+- Apache Tomcat
+- IntelliJ IDEA (or your preferred IDE)
+We also acknowledge the contributions of the open-source community and the wealth of knowledge shared by developers worldwide.
